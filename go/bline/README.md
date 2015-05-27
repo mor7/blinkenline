@@ -6,7 +6,7 @@ This is a Go library for the Blinkenline.
 
 All flags needed by the library are parsed by itself.
 
-'''
+```
 package main
 
 import (
@@ -21,5 +21,4 @@ func main() {
 	}
 	defer bline.Close()
 }
-'''
-
+```
