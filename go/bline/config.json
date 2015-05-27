@@ -1,0 +1,10 @@
+{
+	"Servers": [
+		{
+			"Address": "127.0.0.1",
+			"Port": 2323,
+			"LedCount": 60,
+			"Reverse": false
+		}
+	]
+}
